@@ -3,3 +3,7 @@ function getQueryString(name) {
   const url = new URL(url_string);
   return url.searchParams.get(name);
 }
+
+function swichFansUrk(mid) {
+
+}
