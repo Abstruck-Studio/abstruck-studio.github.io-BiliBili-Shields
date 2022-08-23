@@ -4,6 +4,6 @@ function getQueryString(name) {
   return url.searchParams.get(name);
 }
 
-function swichFansUrk(mid) {
+function swichFansUrl(mid) {
 
 }
